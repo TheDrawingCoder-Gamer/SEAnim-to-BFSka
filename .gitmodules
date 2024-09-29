@@ -1,6 +1,3 @@
 [submodule "BfresLibrary"]
 	path = BfresLibrary
 	url = https://github.com/KillzXGaming/BfresLibrary.git
-[submodule "SELibDotNet"]
-	path = SELibDotNet
-	url = https://github.com/dtzxporter/SELibDotNet.git
